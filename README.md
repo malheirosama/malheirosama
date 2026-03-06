@@ -29,7 +29,7 @@ Computer Science Student | Software Developer | Python | TypeScript | Computer V
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/matheusmalheiros" target="_blank">
+<a href="https://instagram.com/_matheus_malheiros" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
 </p>
