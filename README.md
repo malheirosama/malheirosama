@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Malheiros</h1>
 
 <h3 align="center">
-Computer Science Student | Software Developer | Python | TypeScript | Computer Vision
+Bachelor of Science in Computer Science | Software Developer | Python | TypeScript | Computer Vision
 </h3>
 
 ---
