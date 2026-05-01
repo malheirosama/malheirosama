@@ -8,7 +8,7 @@ Bachelor of Science in Computer Science | Software Developer | Python | TypeScri
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at **IFMA – Campus Caxias**
+- 🎓 Computer Science Bachelor at **IFMA – Campus Caxias**
 - 💻 Passionate about **software development and technology**
 - 🧠 Interested in **Computer Vision, AI and Web Development**
 - 🧪 Currently working with **Python, TypeScript and C++**
